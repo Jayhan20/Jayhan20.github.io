@@ -17,6 +17,7 @@
 		font: inherit;
 		vertical-align: baseline;
 		background-image: url("/images/south-korea.jpg");
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -3028,12 +3029,12 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,							fixed;
+		background-attachment: scroll, fixed;
 		background-color: #666;
 		background-image: url("/images/south-korea.jpg");
-		background-position: top left,						center center;
-		background-repeat: repeat,							no-repeat;
-		background-size: auto,							cover;
+		background-position: top left, center center;
+		background-repeat: repeat,	no-repeat;
+		background-size: auto;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
