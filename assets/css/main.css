@@ -3030,7 +3030,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/south-korea.jpg"), url("../../images/south-korea.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3174,6 +3174,7 @@
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
+		display: none;
 	}
 
 		#cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
